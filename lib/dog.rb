@@ -1,1 +1,2 @@
-class validates_format_of
+class Dog 
+  
