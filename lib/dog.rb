@@ -4,10 +4,10 @@ def bark
   end
 end 
 
+
 def sit 
   puts" The Dog is Sitting" 
-  
-end
+  end
 end 
 
 
