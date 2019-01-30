@@ -1,7 +1,12 @@
 class Dog 
-   def bark 
-puts "bark"
+def bark 
+  puts "Woof!"
 end
-    
+
+c
+
+
+
+
   
   
