@@ -3,7 +3,11 @@ def bark
   puts "Woof!"
 end
 
-c
+def sit 
+  puts" The Dog is Sitting"
+end 
+
+
 
 
 
