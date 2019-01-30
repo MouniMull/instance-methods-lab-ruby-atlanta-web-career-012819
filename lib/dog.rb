@@ -1,1 +1,1 @@
-class 
+class validates_format_of
